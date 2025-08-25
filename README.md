@@ -29,7 +29,7 @@ This portfolio showcases my projects, skills, and experiences in **Data Science,
   Published at **CICTN-2025 (IEEE), ABES Engineering College, Ghaziabad**  
 
 ## Connect with Me
-- Email: [ajitpatel00nwd@gmail.com](ajitpatel00nwd@gmail.com)  
-- LinkedIn: ([your-linkedin-url](https://www.linkedin.com/in/ajit-patel-069b1a244/))  
+- Email: [ajitpatel00nwd@gmail.com] 
+- LinkedIn: ([[your-linkedin-url](https://www.linkedin.com/in/ajit-patel-069b1a244/)](https://www.linkedin.com/in/ajit-patel-069b1a244/))  
 - GitHub: ([your-github-url](https://github.com/ajitpatel01))  
 - Portfolio Website: ([your-portfolio-url](https://ajitpatel-portfolio.netlify.app/)) 
