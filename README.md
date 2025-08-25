@@ -1,6 +1,6 @@
 # Ajit Patel - Portfolio
 
-Welcome to my personal portfolio repository!   
+Hey! Welcome to my personal portfolio repository!   
 This portfolio showcases my projects, skills, and experiences in **Data Science, Machine Learning, and Software Development**.
 
 ## About Me
